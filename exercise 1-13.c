@@ -19,8 +19,3 @@ int main(void)
   }
 return 0;
 }
-
-/* Histogram of Frequency of Different Characters in Input */
-
-#include<stdio.h>
-#define TNOCHAR 128  /* Total Number of characters is 128: 0 - 127 */

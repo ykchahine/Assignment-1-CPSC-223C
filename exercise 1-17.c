@@ -1,5 +1,3 @@
-/* Program to print the length of all input lines greater than 80 characters */
-
 #include<stdio.h>
 #define MAXLINE 1000
 #define LIMIT 80
